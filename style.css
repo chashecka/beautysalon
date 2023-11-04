@@ -23,6 +23,12 @@ header {
     left: 200px;
 }
 
+h1 {
+    color: blanchedalmond;
+    top:110px;
+    text-align: center
+}
+
 img {
     width: 250px;
     border-radius: 20px;
