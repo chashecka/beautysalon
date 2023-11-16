@@ -101,7 +101,12 @@ nav{
 }
 
 a{
-   color: aliceblue;
+   color: rgb(255, 255, 255);
+   text-decoration: 0;
+}
+
+a:hover{
+   color: rgb(255, 209, 236);
    text-decoration: 0;
 }
 
