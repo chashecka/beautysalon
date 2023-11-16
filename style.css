@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: black;
+    background-image: linear-gradient(rgb(34, 34, 34),rgb(0, 0, 0));
 }
 
 header {
@@ -39,7 +39,7 @@ img {
     border-radius: 20px;
     position: absolute;
     right: 10px;
-    top: 304px;
+    top: 301px;
     width: 230px;
 }
 
@@ -102,6 +102,7 @@ nav{
 
 a{
    color: aliceblue;
+   text-decoration: 0;
 }
 
 qw{
