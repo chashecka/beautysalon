@@ -17,17 +17,18 @@ header {
 
 .s {
     color: blanchedalmond;
-    padding-left: 200px;
     position: absolute;
     top:110px;
-    left: 200px;
+    left: 50px;
+    right: 50px;
 }
 
 h1 {
     color: blanchedalmond;
     top:110px;
-    text-align: center
+    text-align: center;
 }
+
 
 img {
     width: 250px;
@@ -35,11 +36,11 @@ img {
 }
 
 .w {
-    width: 260px;
+    width: 150px;
     height: 165px;
     border-radius: 20px;
     position: absolute;
-    left: 700px;
+    right: 10px;
     top: 304px;
 }
 
@@ -49,16 +50,56 @@ p {
 
 .h {
     position: absolute;
-    left: 800px;
-    top: 475px;
+    right: 10px;
+    top: 470px;
+    width: 150px;
+    height: 165px;
 }
 
 .m {
     position: absolute;
-    left: 70px;
-    top: 475px;
+    left: 50px;
+    top: 470px;
+}
+
+.r{
+    position: absolute;
+    top: 660px;
+    left: 50px;
+}
+
+.t{
+    width: 130px;
+    height: 165px;
+    border-radius: 20px;
+    position: absolute;
+    top: 500px;
+}
+
+.f{
+    position: absolute;
+    left: 700px;
+    top: 500px;
+}
+
+.p{
+    position: absolute;
+    top: 660px;
+    left: 750px;
+}
+
+.ddlc{
+    width: 130px;
+    height: 165px;
+    border-radius: 20px;
+    position: absolute;
+    top: 304px;
+}
+
+nav{
+
 }
 
 a{
-    color: white;
+   color: aliceblue;
 }
