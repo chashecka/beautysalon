@@ -36,12 +36,11 @@ img {
 }
 
 .w {
-    width: 150px;
-    height: 165px;
     border-radius: 20px;
     position: absolute;
     right: 10px;
     top: 304px;
+    width: 230px;
 }
 
 p {
@@ -60,6 +59,7 @@ p {
     position: absolute;
     left: 50px;
     top: 470px;
+    width: 123px;
 }
 
 .r{
@@ -102,4 +102,8 @@ nav{
 
 a{
    color: aliceblue;
+}
+
+qw{
+    top: 304px;
 }
